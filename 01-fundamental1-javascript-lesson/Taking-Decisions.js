@@ -4,9 +4,9 @@
 const age = 15;
 //const isOldEnough = age >= 18;  // To create a variable
 
-// To use Boolen Value using If statement to take a decision into
+// To use Boolean Value using If statement to take a decision into
 if (age >= 18)   {  
- console.log('Sarah can start driving licence');  //()inside the parenthesis goes a conditions that will be evaluated, if this conditions turnout to be true this block curlbracket{} will be executed, 
+ console.log('Sarah can start driving license');  //()inside the parenthesis goes a conditions that will be evaluated, if this conditions turnout to be true this block curlbracket{} will be executed, 
 } else {    // else means optional
     const yearsLeft = 18 - age;
     console.log(`Sarah is too young. Wait another ${yearsLeft} years :)`);
